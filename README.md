@@ -2,14 +2,6 @@
 
 Este repositório apresenta a modelagem de banco de dados de um sistema de **E-commerce**, focando na etapa lógica e física. O objetivo é estruturar de forma eficiente os dados relacionados a clientes, produtos, pedidos, pagamentos, campanhas de marketing, estoque e administração.
 
-## 📂 Conteúdo do Projeto
-
-- `E-commerceLogico2.sql`: Script de criação das tabelas e relacionamentos do banco de dados.
-- Modelo lógico implementado com diversas entidades e chaves estrangeiras.
-- Cobertura de funcionalidades reais de um sistema de e-commerce completo.
-
----
-
 ## 🧮 Modelo Lógico
 
 O modelo lógico define todas as tabelas, atributos, chaves primárias e estrangeiras, relacionamentos e regras de integridade referencial.
